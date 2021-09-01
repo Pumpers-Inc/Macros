@@ -9,3 +9,4 @@
 
 **onebuttonmount.macro:** Macros to use 1 button only to cast fly mount in Outland and normal mount in Azeroth
 
+**sellallgray.macro:**  sells all grey items, shows what was sold and how much money was made from selling
