@@ -1,0 +1,1 @@
+/run SetCVar("Sound_MasterVolume", 1.0)
