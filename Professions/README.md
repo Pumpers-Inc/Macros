@@ -5,12 +5,7 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Pumpers-Inc/Macros)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pumpers-Inc/Macros)
 ## Macros
-## General Macros
+## Professions Macros
 
-**maxsoundvol.macro:** Set game's max sound volume
+**onebutton_DE-Pros-Mill.macro:** One-Button Disenchant/Milling/Prospecting
 
-**minsoundvol.macro:** Set game's sounds to 15%
-
-**onebuttonmount.macro:** Macros to use 1 button only to cast fly mount in Outland and normal mount in Azeroth
-
-**sellallgray.macro:**  sells all grey items, shows what was sold and how much money was made from selling
