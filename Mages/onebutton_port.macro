@@ -1,0 +1,3 @@
+#showtooltip
+/cast [nogroup] Teleport: <city name> 
+/cast [group] Portal: <city name>
