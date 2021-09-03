@@ -4,8 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pumpers-Inc/Macros)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Pumpers-Inc/Macros)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pumpers-Inc/Macros)
-## Macros
-## Professions Macros
+# Professions Macros
 
-**onebutton_DE-Pros-Mill.macro:** One-Button Disenchant/Milling/Prospecting
+## onebutton_DE-Pros-Mill.macro
+One-Button Disenchant/Milling/Prospecting
 
