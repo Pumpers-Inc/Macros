@@ -4,8 +4,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Pumpers-Inc/Macros)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Pumpers-Inc/Macros)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pumpers-Inc/Macros)
-## Macros
+# Macros
 
-**General:**  Useful general purpose macros
+## General
+Useful general purpose macros
 
-**Mages:** Mage  macros
+## Mages:
+Mage macros
