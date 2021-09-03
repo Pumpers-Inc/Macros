@@ -5,26 +5,20 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Pumpers-Inc/Macros)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pumpers-Inc/Macros)
 
-## Mage Macro List
+# Mage Macros
 
-counterspell.macro
-------------------
+## counterspell.macro
 Stop any casting and cast *CounterSpell*
 
-iceblock.macro
---------------
+## iceblock.macro
 Stop any casting and cast *Ice Block*
 
-managem.macro
--------------
+## managem.macro
 Find and destory current Mana Gem in bags and cast fresh one with 3 charges
 
-
-polymorph.macro
----------------
+## polymorph.macro
 Stop any casting and cast *PolyMorth*
 
-onebutton_port.macro
---------------------
+## onebutton_port.macro
 One button for cast Teleport or Portal (solo or in group/raid) 
 
